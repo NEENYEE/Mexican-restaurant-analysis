@@ -1,3 +1,12 @@
+## Table Of Conte
+
+
+
+
+
+
+
+
 ## Unlocking Investment Opportunities in the Mexican Restaurant Industry: A Data-Driven Exploration
 
 
