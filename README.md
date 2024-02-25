@@ -32,4 +32,16 @@ The dataset consists of 5 tables namely:
 - restaurants (130 rows and 11 columns)
 
 
+## Tools
+
+In this project, a combination of Excel, Power BI, and SQL were utilized to analyze and visualize the data effectively. Each tool played a unique role in the data analysis process, offering specific functionalities and capabilities to uncover insights from the dataset. 
+
+
+## Data Preparation
+
+The first step before diving into analysis was a thorough examination of the dataset to gain a comprehensive understanding of the dataset. The structure of the dataset was explored, key variables were identified, and data quality was assessed to inform the data preparation strategy. Power query was leveraged to clean, handle missing values and remove duplicates.
+- Columns like zipcode, longitude and latitude deemed irrelevant and were dropped from the dataset to focus on relevant variables for analysis.
+- Missing values were handled using mode imputation, where empty rows were replaced with the mode of the respective column. For instance, the empty rows in the smokers, transportation and budget columnn were replaced with No, public and medium respectively.
+- 'Replace values' was used to replace inconsistent value. for instance, 'Gorditas Doña Tota' was replaced with 'Gorditas Dona Tota' and 'La Cantina Restaurante' was replaced with 'La Cantina'.
+
 
