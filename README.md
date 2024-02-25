@@ -4,9 +4,15 @@
 ![resta](https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/110195a6-5391-448d-9409-4279a2abcacd)
 
 ## Table Of Contents
-- [Overview](overview)
-- [Problem Statements](problem-statements)
-- [Data Source](data-source)
+- [Overview](#overview)
+- [Problem Statements](#problem-statements)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Data Analysis](#data-analysis)
+- [Visualizations](#visualizations)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 
 
 ## Overview
@@ -43,5 +49,58 @@ The first step before diving into analysis was a thorough examination of the dat
 - Columns like zipcode, longitude and latitude deemed irrelevant and were dropped from the dataset to focus on relevant variables for analysis.
 - Missing values were handled using mode imputation, where empty rows were replaced with the mode of the respective column. For instance, the empty rows in the smokers, transportation and budget columnn were replaced with No, public and medium respectively.
 - 'Replace values' was used to replace inconsistent value. for instance, 'Gorditas Doña Tota' was replaced with 'Gorditas Dona Tota' and 'La Cantina Restaurante' was replaced with 'La Cantina'.
+
+
+## Data Analysis
+
+The data analysis phase involved leveraging SQL and DAX measures to delve into the dataset and extract valuable insights. This began with SQL, where the querying capabilities were utilized to perform data manipulation and aggregation tasks. In addition to querying the dataset directly, views were created to streamline the analysis and facilitate easier access to key information. 
+
+Below is an example of one of the views created:
+
+```sql
+```
+Using DAX measures, key metrics such as total consumers, total restaurants, and the number of cuisines offered were calculated. These measures provided valuable insights into the size and scope of the restaurant market, as well as consumer preferences and behavior.
+
+
+## visualizations
+
+
+
+## Key Insights
+
+This section distills the most important findings from the analysis, providing stakeholders with actionable takeaways.
+
+- **Who are the customers?**
+  
+The dataset encompasses a wide range of demographic groups, including various age groups, genders, occupation and so on. This diversity highlights the broad appeal of the restaurants to a diverse customer base.
+
+   - 87% of the customers are students.
+   - Majority of the consumers live in San-Luis Potosi, prefer mexican cuisines and are between the ages of 18-25
+   - Majority (73%) are married.
+   - 71% are on a medium budget.
+   - Majority prefer public transport.
+   - Majority of them are non-smokes and Abstemious drinkers.
+
+However, the data collection methods favor certain demographic groups like students and 18-25 age groups, this may indicate bias.
+
+- **Highest rated restaurants**
+
+The highest rated restaurant is Restaurant Las Mananits with average ratings of 2 in overall, food and service ratings. Followed by Michiko Restaurant Japones and Emilianos. Most of the highest rated restaurants are situated in San Luis Potosi, Offer mostly mexican cuisine, medoum to low prices, have no parking spaces and are situated in closed areas. 
+
+Majority of the consumers who rated these restaurants reside in the same city, on a medium budget, prefer public transport, non-smokers, abstemious drinkers, are students, single and prefer mexican cuisine. Therefore, these demographics are out target market.
+
+- **Demand and supply gaps in the market**
+Most of the cuisines have higher growing demands compared to the restaurants offering them. The analysis reveals that the demand for Mexican cuisine is approximately 3.2 times higher than the supply available in the market.
+American cuisines are twice higher in demand than the supply. Hot dogs and Latin american are in demand but not supplied by any restaurant.
+
+
+## Recommendations
+- **Invest in Mexican Cuisine Ventures**: Given the data indicating a 3.2 times higher demand than supply for Mexican cuisine, investors should consider allocating resources to restaurant ventures specializing in Mexican cuisine. This market demand presents a lucrative opportunity for investors to capitalize on consumer preferences and potentially high returns on investment.
+
+- **Focus on Student-Centric Locations:** Given the positive ratings from students, investors may consider prioritizing investments in restaurant ventures located near university campuses or student-dense areas. Targeting these locations can attract a steady stream of student customers and drive consistent revenue.
+
+- **Target Demographic-Friendly Establishments:** Prioritize investments in restaurants that cater to the preferences and behaviors of the target demographics, including students. Focus on establishments known for their student-friendly ambiance, menu offerings, and pricing strategies to maximize investment potential.
+
+
 
 
