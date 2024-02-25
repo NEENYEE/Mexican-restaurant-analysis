@@ -23,10 +23,13 @@ Navigating the Mexican restaurant market presents challenges for investors. The 
 
 
 ## Data Source
-The dataset was provided by Digitaley drive as an integral part of my capstone project [data source](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link). 
+The dataset was provided by Digitaley drive as an integral part of my capstone project [download here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link). 
 The dataset consists of 5 tables namely: 
 - consumer preferences (330 rows and 2 columns)
 - consumers (138 rows and 12 columns)
 - ratings (1161 rows and 5 columns)
 - restaurant cuisines (112 rows and 2 columns)
 - restaurants (130 rows and 11 columns)
+
+
+
