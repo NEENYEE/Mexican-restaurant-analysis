@@ -38,6 +38,11 @@ The dataset consists of 5 tables namely:
 - restaurants (130 rows and 11 columns)
 
 
+## ER Diagram
+
+![IMG_8564](https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/be0b09fd-6121-45fe-bcd6-7f2a2d38ab88)
+
+
 ## Tools
 
 In this project, a combination of Excel, Power BI, and SQL were utilized to analyze and visualize the data effectively. Each tool played a unique role in the data analysis process, offering specific functionalities and capabilities to uncover insights from the dataset. 
@@ -55,15 +60,13 @@ The first step before diving into analysis was a thorough examination of the dat
 
 The data analysis phase involved leveraging SQL and DAX measures to delve into the dataset and extract valuable insights. This began with SQL, where the querying capabilities were utilized to perform data manipulation and aggregation tasks. In addition to querying the dataset directly, views were created to streamline the analysis and facilitate easier access to key information. 
 
-Below is an example of one of the views created:
-
-```sql
-```
 Using DAX measures, key metrics such as total consumers, total restaurants, and the number of cuisines offered were calculated. These measures provided valuable insights into the size and scope of the restaurant market, as well as consumer preferences and behavior.
 
 
 ## visualizations
-
+<img width="1680" alt="Screenshot 2024-02-26 at 9 59 53 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/31a15200-33be-46c5-b454-df404c699bd0">
+<img width="1680" alt="Screenshot 2024-02-26 at 10 00 02 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/d38f0d94-f9ee-4800-9ab3-b586f256a0d7">
+<img width="1680" alt="Screenshot 2024-02-26 at 10 00 14 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/79f8f47c-de93-4384-b9a2-7103b20a6d34">
 
 
 ## Key Insights
