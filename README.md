@@ -64,9 +64,9 @@ Using DAX measures, key metrics such as total consumers, total restaurants, and 
 
 
 ## visualizations
-<img width="1680" alt="Screenshot 2024-02-26 at 9 59 53 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/31a15200-33be-46c5-b454-df404c699bd0">
-<img width="1680" alt="Screenshot 2024-02-26 at 10 00 02 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/d38f0d94-f9ee-4800-9ab3-b586f256a0d7">
-<img width="1680" alt="Screenshot 2024-02-26 at 10 00 14 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/79f8f47c-de93-4384-b9a2-7103b20a6d34">
+<img width="1680" alt="Screenshot 2024-02-28 at 8 52 14 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/2a6baeb6-b162-4512-9da4-c8e7dc0b6127">
+<img width="1680" alt="Screenshot 2024-02-28 at 8 52 27 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/9418266d-f2dc-4ffd-893b-84182acccecb">
+<img width="1680" alt="Screenshot 2024-02-28 at 8 52 36 PM" src="https://github.com/NEENYEE/Mexican-restaurant-analysis/assets/101926233/c13ac1f0-5ba6-4fb4-a20a-707677d32d9b">
 
 
 ## Key Insights
